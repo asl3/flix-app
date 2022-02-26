@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32EF6E10-E9F4-4D87-9908-469DF9030CA2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAB0F345-F519-4B61-8321-B065E8200D53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flix/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flix/MovieCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - 12e0f0fec2beb08a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.synopsisLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - 1af20a563aef44ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.synopsisLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - 72fa599d0183bf51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - e6aaa1e1d5686aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.synopsisLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - 7fe45ac52ef31098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Flix.MovieCell"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "DD2A6F7A-17AE-498E-82A0-25DDDA57CC41 - c45cc93ea6abb29b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flix.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flix.MovieCell&gt;"
+                  moduleName = "Flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amanda/CodePath/Flix/Flix/MovieCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D1D3978-A140-480E-A562-E6CB97741EA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flix/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
